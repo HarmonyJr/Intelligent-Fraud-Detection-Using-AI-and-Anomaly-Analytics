@@ -49,7 +49,7 @@ Load the transaction dataset and examine its structure.
 
 """
 
-file_path = '/content/PS_20174392719_1491204439457_log.csv'
+file_path = '/content/Transaction_dataset_log.csv'
 df = pd.read_csv(file_path)
 
 # Display first few rows
