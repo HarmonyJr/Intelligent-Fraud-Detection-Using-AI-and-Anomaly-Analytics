@@ -1,2 +1,7 @@
 # Intelligent-Fraud-Detection-Using-AI-and-Anomaly-Analytics
-An end-to-end machine learning workflow for identifying potentially fraudulent transactions using the Isolation Forest anomaly detection algorithm
+
+The Intelligent Fraud Detection Using AI and Anomaly Analytics project demonstrates an end-to-end machine learning workflow for identifying potentially fraudulent transactions using the Isolation Forest anomaly detection algorithm. The lab guides users through each stage of the fraud detection process, beginning with data exploration to understand transaction distributions and feature characteristics. It then covers feature preprocessing, where raw transaction data is transformed into a model-ready format through appropriate encoding and preparation techniques.
+
+Once the data has been prepared, the project trains an Isolation Forest model to identify anomalous transaction patterns and assign anomaly risk scores to every transaction. The workflow continues with an in-depth analysis of the highest-risk transactions, providing insights into why they were flagged as potential fraud. Finally, the project evaluates the effectiveness of the detection model using precision-recall metrics, enabling users to assess model performance and understand the trade-offs between fraud detection accuracy and false positives.
+
+This hands-on lab provides a practical framework for implementing AI-driven anomaly detection, equipping data scientists, data engineers, and fraud analysts with the knowledge needed to build, interpret, and evaluate intelligent fraud detection solutions in real-world financial environments.
